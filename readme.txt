@@ -1,4 +1,4 @@
 Hello!
-This is only a test repository for a group project
+This is only a test repository for the first group project
 
 Another change
